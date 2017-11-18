@@ -1,5 +1,6 @@
 # SheepAspectLab
-AOP模組 SheepAspect 練習
+AOP模組 SheepAspect 練習  
+已知在C# 除了PostSharp 外，個人認為最好的 AOP solution。
 
 ## 參考
 [CodePlex-SheepAspect(已過時)](https://sheepaspect.codeplex.com/)  
